@@ -1,0 +1,14 @@
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Debug\Japan Conquer.exe
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Debug\Japan Conquer.pdb
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.csprojResolveAssemblyReference.cache
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.exe
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.pdb
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan_Conquer.Properties.Resources.resources
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.csproj.GenerateResource.Cache
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.exe
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.pdb
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Debug\Japan Conquer.exe
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Debug\Japan Conquer.pdb
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.csprojResolveAssemblyReference.cache
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan_Conquer.Properties.Resources.resources
+C:\Users\Jan Kolčava\Dropbox\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Debug\Japan Conquer.csproj.GenerateResource.Cache

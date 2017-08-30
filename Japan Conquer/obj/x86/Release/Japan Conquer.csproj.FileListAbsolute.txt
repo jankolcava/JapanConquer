@@ -1,0 +1,7 @@
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Release\Japan Conquer.exe
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\bin\Release\Japan Conquer.pdb
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Release\Japan Conquer.exe
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Release\Japan Conquer.pdb
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Release\Japan Conquer.csprojResolveAssemblyReference.cache
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Release\Japan_Conquer.Properties.Resources.resources
+C:\JK\Programovani\C-sharp\Moje\Japan Conquer\Japan Conquer\obj\x86\Release\Japan Conquer.csproj.GenerateResource.Cache

@@ -1,0 +1,64 @@
+Jak hrát
+--------------------------------------------
+
+ÚVOD
+Hra je inspirovaná Japonskou obèanskou válkou z konce 16. století.
+V tomto období docházelo ke sjednocování Japonska. Japonsko bylo
+rozdìleno na provincie, které vlastnily nejbohatší rody a právì
+tyto rody mezi sebou válèili o nové území a moc. Vyberte si jednoho
+z lenních pánù a obsazujte nové provincie dokud nesjednotíte
+celé Japonsko!
+
+Provincie
+Základem je provincie ve které provádíte veškerou interakci. Provincie
+je zdrojem surovin ze kterých budujete nové budovy a vojáky pomocí
+kterých si podrobujete ostatní provincie. Veškerá akce, která se
+projeví v rámci provincie je provedena ihned, veškerá akce do okolního
+svìta se projeví až po ukonèení kola, po kterém nastává druhý den.
+
+Suroviny
+Základem jsou tøi suroviny:
+
+	Zlato - dùlìžité pro rekrutování jednotek
+	Døevo - dùlžetié pro výstavbu budov
+	Rýže  - slouží pouze k prodeji za zlato
+
+Budovy
+
+HRAD
+V hradu se provádí veškeré akce do okolního svìta (plánování útokù,
+špehování, poslání jednotek do jiné provincie atd.) a odemykají se
+nové budovy. Hrad produkuje zlato, každá další úroveò zvyšuje produkci.
+V hradu lze rekrutovat dvì nejsilnìjší jednotky ve høe:
+Voják s puškou a Samuraj.
+
+Pole
+Pole produkuje rýži, z každou další úrovní se navyšuje produkce.
+
+Pila
+V pile se zpracovává døevo, každá další úroveò zvyšuje jeho produkci.
+
+Tržištì
+Na tržišti mùžete vymìòovat suroviny dle potøeby. Budova je dùležitá
+pro prodej rýže. Tržištì poskytuje funkci "automatické prodání rýže",
+když je funkce aktivní, budova automaticky prodá vyprodukovanou rýži
+po ukonèení kola. V tržišti mùžete poslat suroviny do jiné provincie.
+
+Domy
+Každá úroveò zvyšuje maximální populaci v provincii, což je dùležité
+pro budování vìtšího poètu jednotek.
+
+Dojo
+V doju se nacházejí mnihchové kteøí uèí své žáky bojovému umìní, ve høe
+má pouze funkci kasárny. V doju mùžete rekrutovat základní jednotky:
+Kopiník a luèištník. Budova poskytuje speciální jednotku: Ninja,
+který slouží ke špehování jiných provincií. V budovì lze naverbovat tolik
+ninjù jakou má budova úroveò
+
+Stáje
+Ve stájích mùžete rekrutovat kavalérii - støednì silné jednotky.
+Budova umožnujì rekrutovat: Jezdec a Luèištník na koni.
+
+Hradby
+Jsou dùlìžité pøi obranì provincie, každá úroveò zvyšuje obranu všech
+jednotek v provincii o 10% z jejich vlastní obrany.
